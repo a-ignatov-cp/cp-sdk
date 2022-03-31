@@ -11,7 +11,7 @@ import Foundation
 extension Bundle {
     class var mainSdk: Bundle {
         //let bundle = Bundle.init(for: PaymentForm.self)
-        let bundleUrl = Bundle.main.url(forResource: "Cloudpayments", withExtension: "bundle")
+        let bundleUrl = Bundle.main.url(forResource: "input", withExtension: "bundle")
         return Bundle.init(url: bundleUrl!)!
     }
 }
