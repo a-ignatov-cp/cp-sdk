@@ -32,6 +32,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>CloudPayments_CloudpaymentsSDK</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>CloudpaymentsNetworking</key>
 		<dict>
 			<key>primary</key>
